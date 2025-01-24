@@ -1,0 +1,6 @@
+C:\Users\2021138\Source\Repos\NCsabi02\2025-2024_Cshartesting\12C_2csoport_teszt-master\Teszt\bin\Debug\Teszt.exe.config
+C:\Users\2021138\Source\Repos\NCsabi02\2025-2024_Cshartesting\12C_2csoport_teszt-master\Teszt\bin\Debug\Teszt.exe
+C:\Users\2021138\Source\Repos\NCsabi02\2025-2024_Cshartesting\12C_2csoport_teszt-master\Teszt\bin\Debug\Teszt.pdb
+C:\Users\2021138\Source\Repos\NCsabi02\2025-2024_Cshartesting\12C_2csoport_teszt-master\Teszt\obj\Debug\Teszt.csproj.CoreCompileInputs.cache
+C:\Users\2021138\Source\Repos\NCsabi02\2025-2024_Cshartesting\12C_2csoport_teszt-master\Teszt\obj\Debug\Teszt.exe
+C:\Users\2021138\Source\Repos\NCsabi02\2025-2024_Cshartesting\12C_2csoport_teszt-master\Teszt\obj\Debug\Teszt.pdb

@@ -1,0 +1,7 @@
+C:\Users\2021138\Source\Repos\NCsabi02\2025-2024_Cshartesting\12C_2csoport_teszt-master\AtvaltOOP\bin\Debug\AtvaltOOP.exe.config
+C:\Users\2021138\Source\Repos\NCsabi02\2025-2024_Cshartesting\12C_2csoport_teszt-master\AtvaltOOP\bin\Debug\AtvaltOOP.exe
+C:\Users\2021138\Source\Repos\NCsabi02\2025-2024_Cshartesting\12C_2csoport_teszt-master\AtvaltOOP\bin\Debug\AtvaltOOP.pdb
+C:\Users\2021138\Source\Repos\NCsabi02\2025-2024_Cshartesting\12C_2csoport_teszt-master\AtvaltOOP\obj\Debug\AtvaltOOP.csproj.AssemblyReference.cache
+C:\Users\2021138\Source\Repos\NCsabi02\2025-2024_Cshartesting\12C_2csoport_teszt-master\AtvaltOOP\obj\Debug\AtvaltOOP.csproj.CoreCompileInputs.cache
+C:\Users\2021138\Source\Repos\NCsabi02\2025-2024_Cshartesting\12C_2csoport_teszt-master\AtvaltOOP\obj\Debug\AtvaltOOP.exe
+C:\Users\2021138\Source\Repos\NCsabi02\2025-2024_Cshartesting\12C_2csoport_teszt-master\AtvaltOOP\obj\Debug\AtvaltOOP.pdb
