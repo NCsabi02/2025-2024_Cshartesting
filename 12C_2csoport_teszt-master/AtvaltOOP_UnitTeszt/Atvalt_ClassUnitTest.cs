@@ -37,7 +37,7 @@ namespace AtvaltOOP_UnitTeszt
             // Act- Az eredmény kiértékelése
             Assert.AreEqual(kapottEredm2, vartEredm2);
 
-
+            
         }
 
         public void isBinaris_True() // A tesztmetodus nevében jelzem, hoyg melyik metodust tesztelem és mire
